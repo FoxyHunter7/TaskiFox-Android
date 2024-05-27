@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screen_todos">Taken</string>
+    <string name="screen_todo_edit">Taak Bewerken</string>
+    <string name="screen_calendar">Kalender</string>
+    <string name="screen_projects">Projecten</string>
+    <string name="screen_settings">Instellingen</string>
+    <string name="back_button">Terug</string>
+    <string name="screen_project_edit">Project Bewerken</string>
+    <string name="settings">Instellingen</string>
+    <string name="todos">Taken</string>
+    <string name="projects">Projecten</string>
+    <string name="screen_todo_create">Taak Toevoegen</string>
+    <string name="screen_project_create">Project Toevoegen</string>
+    <string name="screen_project_detail">Projectoverzicht</string>
+</resources>
