@@ -19,3 +19,6 @@ The application is currently still in development, however here are some sneak p
 
 ## Mentions
 TaskiFox logo by: Codyan64
+
+---
+[Privacy Policy](./privacy-policy.md)
