@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">TaskiFox</string>
+    <string name="screen_todos">Todos</string>
+    <string name="screen_todo_edit">Edit Todo</string>
+    <string name="screen_calendar">Calendar</string>
+    <string name="screen_projects">Projects</string>
+    <string name="screen_settings">Settings</string>
+    <string name="back_button">Back</string>
+    <string name="screen_project_edit">Edit Project</string>
+    <string name="settings">Settings</string>
+    <string name="todos">Todos</string>
+    <string name="projects">Projects</string>
+    <string name="screen_todo_create">Create Todo</string>
+    <string name="screen_project_create">Create Project</string>
+    <string name="screen_project_detail">Project Overview</string>
+</resources>

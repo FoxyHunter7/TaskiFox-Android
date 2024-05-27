@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screen_todos">Aufgaben</string>
+    <string name="screen_todo_edit">Aufgabe Bearbeiten</string>
+    <string name="screen_calendar">Kalender</string>
+    <string name="screen_projects">Projekte</string>
+    <string name="screen_settings">Einstellungen</string>
+    <string name="back_button">Züruck</string>
+    <string name="screen_project_edit">Projekt Baarbeiten</string>
+    <string name="settings">Einstellungen</string>
+    <string name="todos">Aufbagen</string>
+    <string name="projects">Projekte</string>
+    <string name="screen_todo_create">Aufbage Erstellen</string>
+    <string name="screen_project_create">Projekt Erstellen</string>
+    <string name="screen_project_detail">Projektübersicht</string>
+</resources>
