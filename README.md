@@ -16,3 +16,6 @@ The application is currently still in development, however here are some sneak p
 
 ![Screenshot_20240521_194212_TaskiFox (Small)](https://github.com/FoxyHunter7/TaskiFox-Android/assets/80623140/9a70f658-1c1d-4263-a28d-82a16ddcf043)
 ![Screenshot_20240521_194851_TaskiFox (Small)](https://github.com/FoxyHunter7/TaskiFox-Android/assets/80623140/48f50663-dec8-499f-aa44-af997694a3dc)
+
+## Mentions
+TaskiFox logo by: Codyan64
